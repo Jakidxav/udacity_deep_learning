@@ -1,0 +1,1 @@
+This Jupyter Notebook and Python files in this repository result in a simple AWS SageMaker web app which interacts with a deployed recurrent neural network written in PyTorch that performs sentiment analysis on IMDb movie reviews. 
